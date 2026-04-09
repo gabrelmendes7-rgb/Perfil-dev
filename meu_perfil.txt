@@ -2,6 +2,6 @@ Nome: Gabriel Mendes Da Silva
 Curso: analise e desenvolvimento de sistemas
 Objetivo: Ser desenvolvedor do zapzap
 
-Hobbies: Ver filme, ler livros infantis e natação
+Hobbies: Ver filme, ler livros e natação
 
 Meu git hub: https://github.com/gabrelmendes7-rgb
